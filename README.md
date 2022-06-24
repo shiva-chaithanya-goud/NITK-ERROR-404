@@ -2,7 +2,7 @@
 NIT Mizoram hackathon. Track name: Indian Culture and Heritage.
 
 <h2>Github Link:</h2>
- https://github.com/shantanu-29/Error-404-NITM
+ https://github.com/shiva-chaithanya-goud/NITK-ERROR-404
 
 <h2>Site Hosted at :</h2>
 
@@ -10,11 +10,11 @@ https://github.com/shiva-chaithanya-goud/NITK-ERROR-404/
 
 <h2>Conributors:</h2>
 
-1. SHANTANU PATRA (spshantanurick@gmail.com)
+1. BOLLIPELLY SHIVA CHAITHANYA GOUD(shivachaithanyagoud.b@gmail.com)
 
 2. PASULA BHAVANA REDDY(bhavna.reddy02@gmail.com)
 
-3. BOLLIPELLY SHIVA CHAITHANYA GOUD(shivachaithanyagoud.b@gmail.com)
+3. SHANTANU PATRA (spshantanurick@gmail.com)
 
 
 <h2>Introduction:</h2>
